@@ -1,0 +1,577 @@
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\ApplicationInsights.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.WEB.dll.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.WEB.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.WEB.pdb
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csc.exe
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csc.exe.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csc.rsp
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csi.exe
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csi.exe.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csi.rsp
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.AppContext.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Console.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Diagnostics.Process.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.Compression.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.Pipes.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.AccessControl.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Claims.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Threading.Thread.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.ValueTuple.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.XPath.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\vbc.exe
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\vbc.exe.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\vbc.rsp
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\VBCSCompiler.exe
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Antlr3.Runtime.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.SqlServer.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.Web.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.ApplicationInsights.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Newtonsoft.Json.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Owin.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Http.Formatting.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Helpers.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Owin.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.WebHost.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Mvc.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Optimization.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Razor.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Deployment.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Razor.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\WebGrease.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Antlr3.Runtime.pdb
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.SqlServer.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.Web.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.ApplicationInsights.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Newtonsoft.Json.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Http.Formatting.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Helpers.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Owin.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.WebHost.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Mvc.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Optimization.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Razor.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Deployment.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Razor.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.csprojResolveAssemblyReference.cache
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.csproj.CoreCompileInputs.cache
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.pdb
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.WebApi.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.WebApi.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\NLog.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\NLog.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.BLL.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.BLL.pdb
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.BLL.dll.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.Owin.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Owin.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.DAL.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.DAL.pdb
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.DAL.dll.config
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.Owin.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Owin.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Cors.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Cors.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Cors.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Win32.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\netstandard.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.AppContext.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.Concurrent.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.NonGeneric.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.Specialized.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.TypeConverter.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Console.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Data.Common.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Contracts.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Debug.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Process.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.StackTrace.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Tools.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.TraceSource.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Tracing.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Drawing.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Dynamic.Runtime.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Globalization.Calendars.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Globalization.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Globalization.Extensions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.Compression.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.Compression.ZipFile.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.Watcher.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.IsolatedStorage.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.MemoryMappedFiles.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.Pipes.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.Expressions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.Parallel.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.Queryable.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Http.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.NameResolution.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.NetworkInformation.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Ping.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Requests.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Security.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Sockets.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.WebHeaderCollection.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.WebSockets.Client.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.WebSockets.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ObjectModel.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Reflection.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Reflection.Extensions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Reflection.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Resources.Reader.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Resources.ResourceManager.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Resources.Writer.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Extensions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Handles.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.InteropServices.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Numerics.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Formatters.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Json.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Xml.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Claims.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Algorithms.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Csp.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Encoding.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Principal.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.SecureString.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encoding.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encoding.Extensions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.RegularExpressions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Overlapped.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Tasks.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Tasks.Parallel.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Thread.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.ThreadPool.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Timer.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ValueTuple.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.ReaderWriter.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XDocument.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XmlDocument.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XmlSerializer.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XPath.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XPath.XDocument.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Options.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Primitives.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Net.Http.Headers.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Buffers.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encodings.Web.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Options.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Primitives.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Net.Http.Headers.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Buffers.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encodings.Web.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Cors.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Cors.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Work\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\ApplicationInsights.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.WEB.dll.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.WEB.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.WEB.pdb
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csc.exe
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csc.exe.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csc.rsp
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csi.exe
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csi.exe.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\csi.rsp
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.AppContext.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Console.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Diagnostics.Process.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.Compression.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.IO.Pipes.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.AccessControl.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Claims.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Security.Principal.Windows.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Threading.Thread.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.ValueTuple.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.XPath.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\vbc.exe
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\vbc.exe.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\vbc.rsp
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\VBCSCompiler.exe
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Win32.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\netstandard.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.AppContext.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.Concurrent.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.NonGeneric.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Collections.Specialized.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.EventBasedAsync.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ComponentModel.TypeConverter.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Console.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Data.Common.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Contracts.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Debug.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.FileVersionInfo.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Process.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.StackTrace.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Tools.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.TraceSource.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.Tracing.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Drawing.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Dynamic.Runtime.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Globalization.Calendars.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Globalization.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Globalization.Extensions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.Compression.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.Compression.ZipFile.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.DriveInfo.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.FileSystem.Watcher.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.IsolatedStorage.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.MemoryMappedFiles.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.Pipes.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.IO.UnmanagedMemoryStream.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.Expressions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.Parallel.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Linq.Queryable.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Http.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.NameResolution.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.NetworkInformation.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Ping.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Requests.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Security.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Sockets.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.WebHeaderCollection.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.WebSockets.Client.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.WebSockets.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ObjectModel.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Reflection.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Reflection.Extensions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Reflection.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Resources.Reader.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Resources.ResourceManager.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Resources.Writer.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Extensions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Handles.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.InteropServices.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Numerics.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Formatters.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Json.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.Serialization.Xml.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Claims.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Algorithms.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Csp.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Encoding.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Cryptography.X509Certificates.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.Principal.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Security.SecureString.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encoding.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encoding.Extensions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.RegularExpressions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Overlapped.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Tasks.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Tasks.Parallel.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Thread.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.ThreadPool.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Threading.Timer.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.ValueTuple.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.ReaderWriter.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XDocument.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XmlDocument.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XmlSerializer.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XPath.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Xml.XPath.XDocument.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Antlr3.Runtime.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.Owin.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Owin.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.WebApi.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.SqlServer.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.Agent.Intercept.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.DependencyCollector.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.Web.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.WindowsServer.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.ApplicationInsights.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Options.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Primitives.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Net.Http.Headers.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Cors.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.BLL.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.DAL.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Newtonsoft.Json.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\NLog.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Owin.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Buffers.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.DiagnosticSource.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Http.Formatting.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encodings.Web.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Cors.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Helpers.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Cors.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Owin.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.WebHost.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Mvc.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Optimization.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Razor.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Deployment.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Razor.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\WebGrease.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Storage.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.BLL.pdb
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.BLL.dll.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.DAL.pdb
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\MyUserStory.DAL.dll.config
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Antlr3.Runtime.pdb
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Mvc.Owin.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.Owin.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Autofac.Integration.WebApi.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\EntityFramework.SqlServer.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.DependencyCollector.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.Web.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AI.WindowsServer.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.ApplicationInsights.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Options.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Extensions.Primitives.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Net.Http.Headers.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Cors.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Newtonsoft.Json.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\NLog.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Buffers.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Diagnostics.DiagnosticSource.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Net.Http.Formatting.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Text.Encodings.Web.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Cors.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Helpers.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.Owin.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Http.WebHost.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Mvc.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Optimization.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.Razor.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Deployment.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\System.Web.WebPages.Razor.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Storage.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.csprojResolveAssemblyReference.cache
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.csproj.CoreCompileInputs.cache
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.csproj.CopyComplete
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.dll
+D:\учеба\Новая папка (2)\UserStory\MyUserStory.WEB\MyUserStory.WEB\obj\Debug\MyUserStory.WEB.pdb
